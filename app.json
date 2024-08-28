@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "react-native-collage",
-    "slug": "react-native-collage",
+    "name": "react-native-college",
+    "slug": "react-native-college",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
